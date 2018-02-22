@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="@string/keep_calm_and_code"
+        android:text="@string/can_t_keep_calm_while_code"
         android:textSize="30sp"/>
 </RelativeLayout>

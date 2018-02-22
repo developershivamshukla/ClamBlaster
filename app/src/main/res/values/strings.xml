@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ClamBlaster</string>
     <string name="keep_calm_and_code">Keep Calm and code</string>
+    <string name="can_t_keep_calm_while_code">Can\'t keep calm while code</string>
 </resources>
